@@ -369,4 +369,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main() 
+    from compose_video import compose_final_video
+    compose_final_video()
