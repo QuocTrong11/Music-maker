@@ -1,0 +1,8 @@
+Input_audio/
+Input_background/
+Input_image/
+Output_audio/
+Output_video/
+__pycache__/
+.venv/
+venv/
